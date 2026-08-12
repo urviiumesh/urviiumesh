@@ -109,24 +109,7 @@ combining detection, recognition, tracking, interaction analysis, and agentic or
 <b>Stack:</b> Python · YOLOv8 · InsightFace · OpenCV · TensorFlow · NetworkX · ByteTrack · Local LLM
 </p>
 
-<h3>02 · Multimodal AI Mock-Interview Evaluation</h3>
-
-<p>
-Built an AI platform that evaluates interview behaviour across multiple modalities,
-including posture, facial expressions, eye contact and speech confidence.
-</p>
-
-<ul>
-<li>Generated behavioural assessment reports in under <b>8 seconds</b> per session.</li>
-<li>Reduced facial landmark inference and Flask API latency by <b>40%</b>.</li>
-<li>Enabled concurrent processing of <b>3 interview streams</b> with under <b>300 ms</b> response time.</li>
-</ul>
-
-<p>
-<b>Stack:</b> Python · OpenCV · MediaPipe · TensorFlow · Flask
-</p>
-
-<h3>03 · Ethical Clinical Decision Support System</h3>
+<h3>02 · Ethical Clinical Decision Support System</h3>
 
 <p>
 Built a clinical decision-support system that evaluates whether treatment recommendations
@@ -143,7 +126,7 @@ remain appropriate under patient-specific and ethical constraints.
 <b>Stack:</b> TensorFlow · Keras · Scikit-learn · Flask · Python
 </p>
 
-<h3>04 · AI + AR Physiotherapy Rehabilitation</h3>
+<h3>03 · AI + AR Physiotherapy Rehabilitation</h3>
 
 <p>
 A mobile rehabilitation platform designed to make guided physiotherapy more accessible
