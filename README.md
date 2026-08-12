@@ -251,7 +251,7 @@ Healthcare, security, accessibility and human-centred intelligent systems.
 <h2>GitHub Activity</h2>
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urviiumesh&bg_color=000000&color=568e4e&line=325733&point=ffffff&area=true&hide_border=true&custom_title=Urvi%20Umesh%20%7C%20Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urviiumesh&bg_color=000000&color=568e4e&line=325733&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </p>
 
 
