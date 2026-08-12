@@ -1,7 +1,7 @@
 <div align="left">
 
 <h1>Urvi Umesh</h1>
-<img src="assets/urvi-core.gif" width="270" align="right" alt="Urvi animated visual"/>
+<img src="assets/urvi-core.gif" width="260" align="right" alt="Urvi animated visual"/>
 
 <h3>AI Engineer who turns ambitious ideas into real-time systems.</h3>
 
@@ -20,16 +20,16 @@ Currently pursuing a <b>B.E. in Information Science and Engineering</b> at
 
 <p>
 <a href="https://linkedin.com/in/urviumesh">
-<img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=325733"/>
+<img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=568e4e"/>
 </a>
 <a href="https://github.com/urviiumesh">
-<img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=325733"/>
+<img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=568e4e"/>
 </a>
 <a href="https://leetcode.com/urviiumesh">
-<img src="https://img.shields.io/badge/LeetCode-0b0b0b?style=for-the-badge&logo=leetcode&logoColor=325733"/>
+<img src="https://img.shields.io/badge/LeetCode-0b0b0b?style=for-the-badge&logo=leetcode&logoColor=568e4e"/>
 </a>
 <a href="mailto:urvi.umesh2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-0b0b0b?style=for-the-badge&logo=gmail&logoColor=325733"/>
+<img src="https://img.shields.io/badge/Email-0b0b0b?style=for-the-badge&logo=gmail&logoColor=568e4e"/>
 </a>
 </p>
 
@@ -180,41 +180,56 @@ ideathons and hackathon onboarding sessions, and helped grow active membership t
 
 <h2>Tech Stack</h2>
 
+<h3>Languages</h3>
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,typescript,tensorflow,pytorch,flask,react,docker,aws,azure,linux,git,github,mongodb,mysql&perline=8"/>
+<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/C-0b0b0b?style=for-the-badge&logo=c&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/JavaScript-0b0b0b?style=for-the-badge&logo=javascript&logoColor=568e4e"/>
 </p>
 
+<h3>Databases</h3>
+
 <p>
-<img src="https://img.shields.io/badge/OpenCV-0b0b0b?style=for-the-badge&logo=opencv&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/MediaPipe-0b0b0b?style=for-the-badge&logo=google&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0b0b0b?style=for-the-badge&logo=huggingface&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/LangChain-0b0b0b?style=for-the-badge&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/InsightFace-0b0b0b?style=for-the-badge&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/YOLO-0b0b0b?style=for-the-badge&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/NetworkX-0b0b0b?style=for-the-badge&logoColor=c9a45c"/>
-<img src="https://img.shields.io/badge/Qiskit-0b0b0b?style=for-the-badge&logo=Qiskit&logoColor=c9a45c"/>
+<img src="https://img.shields.io/badge/MongoDB-0b0b0b?style=for-the-badge&logo=mongodb&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=568e4e"/>
 </p>
 
+<h3>AI / ML</h3>
+
 <p>
-<b>AI / ML:</b> TensorFlow · Scikit-learn · OpenCV · MediaPipe · Hugging Face Transformers · LangChain · NumPy · Pandas
-<br>
-<b>Engineering:</b> Python · Java · C · JavaScript · Flask · React Native · Docker · Git
-<br>
-<b>Cloud:</b> AWS · Azure · Azure DevOps · Firebase · Jenkins · GitHub Actions · Linux
+<img src="https://img.shields.io/badge/TensorFlow-0b0b0b?style=for-the-badge&logo=tensorflow&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0b0b0b?style=for-the-badge&logo=scikit-learn&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/OpenCV-0b0b0b?style=for-the-badge&logo=opencv&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/MediaPipe-0b0b0b?style=for-the-badge&logo=google&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0b0b0b?style=for-the-badge&logo=huggingface&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/LangChain-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/NumPy-0b0b0b?style=for-the-badge&logo=numpy&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Pandas-0b0b0b?style=for-the-badge&logo=pandas&logoColor=568e4e"/>
 </p>
 
-<h2>Research</h2>
-
-<h3>Quantum Steganography with QOTP-LSQ</h3>
+<h3>Frameworks & Libraries</h3>
 
 <p>
-Co-authored research proposing a quantum steganography framework combining
-<b>Quantum One-Time Pad encryption</b>, quantum image representations and LSQ embedding
-to securely hide encrypted audio payloads within video data.
+<img src="https://img.shields.io/badge/Flask-0b0b0b?style=for-the-badge&logo=flask&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/React%20Native-0b0b0b?style=for-the-badge&logo=react&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Unity-0b0b0b?style=for-the-badge&logo=unity&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Git-0b0b0b?style=for-the-badge&logo=git&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Qiskit-0b0b0b?style=for-the-badge&logo=Qiskit&logoColor=568e4e"/>
 </p>
 
+<h3>Cloud & DevOps</h3>
+
 <p>
-<b>Research paper:</b> Under Review · May 2026
+<img src="https://img.shields.io/badge/AWS-0b0b0b?style=for-the-badge&logo=amazon-aws&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Azure-0b0b0b?style=for-the-badge&logo=microsoft-azure&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0b0b0b?style=for-the-badge&logo=azuredevops&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Firebase-0b0b0b?style=for-the-badge&logo=firebase&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Jenkins-0b0b0b?style=for-the-badge&logo=jenkins&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0b0b0b?style=for-the-badge&logo=githubactions&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Linux-0b0b0b?style=for-the-badge&logo=linux&logoColor=568e4e"/>
 </p>
 
 <h2>Engineering Focus</h2>
