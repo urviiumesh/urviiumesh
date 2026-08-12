@@ -1,7 +1,7 @@
 <div align="left">
 
 <h1>Urvi Umesh</h1>
-<img src="assets/urvi-core.gif" width="280" align="right" alt="Urvi animated visual"/>
+<img src="assets/urvi-core.gif" width="270" align="right" alt="Urvi animated visual"/>
 
 <h3>AI Engineer who turns ambitious ideas into real-time systems.</h3>
 
