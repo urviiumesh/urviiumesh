@@ -91,58 +91,83 @@ actually usable.
 
 <h2>Selected Work</h2>
 
-<h3>01 · Agentic Surveillance Intelligence Platform</h3>
+<h2>Selected Work</h2>
+
+<details open>
+<summary><b>01 · Agentic Surveillance Intelligence Platform</b></summary>
+
+<br>
+
+Real-time surveillance intelligence combining <b>computer vision, facial recognition, cross-camera tracking, interaction analysis, and agentic AI</b>.
 
 <p>
-A real-time AI surveillance platform designed around advanced video intelligence,
-combining detection, recognition, tracking, interaction analysis, and agentic orchestration.
+<b>Highlights</b>
 </p>
 
 <ul>
-<li>Built an occlusion-resistant facial recognition pipeline for persistent identity tracking across multiple video streams.</li>
-<li>Integrated YOLO-based detection, InsightFace recognition, ByteTrack tracking and NetworkX interaction analysis.</li>
-<li>Developed a local LLM agent that converts natural-language requests into executable surveillance workflows.</li>
-<li>Designed the system to transform raw video into structured intelligence, movement paths, association graphs and investigation reports.</li>
+<li>Built an occlusion-resistant recognition pipeline for persistent identity tracking across multiple video streams.</li>
+<li>Integrated YOLO, InsightFace, ByteTrack and NetworkX for detection, recognition, tracking and interaction mapping.</li>
+<li>Built a local LLM agent that converts natural-language commands into executable surveillance workflows.</li>
 </ul>
 
 <p>
-<b>Stack:</b> Python · YOLOv8 · InsightFace · OpenCV · TensorFlow · NetworkX · ByteTrack · Local LLM
+<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/YOLOv8-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/InsightFace-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/OpenCV-0b0b0b?style=for-the-badge&logo=opencv&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/NetworkX-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/ByteTrack-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Local%20LLM-0b0b0b?style=for-the-badge&logoColor=568e4e"/>
 </p>
 
-<h3>02 · Ethical Clinical Decision Support System</h3>
+</details>
+
+<br>
+
+<details open>
+<summary><b>02 · Ethical Clinical Decision Support System</b></summary>
+
+<br>
+
+AI-driven clinical decision support that evaluates treatment recommendations against <b>patient-specific, clinical, and ethical constraints</b>.
 
 <p>
-Built a clinical decision-support system that evaluates whether treatment recommendations
-remain appropriate under patient-specific and ethical constraints.
+<b>10,000+ synthetic scenarios</b> · <b>15+ constraints</b> · <b>92% accuracy</b> · <b>0.91 F1</b> · <b>93% recall</b>
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-0b0b0b?style=for-the-badge&logo=tensorflow&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Keras-0b0b0b?style=for-the-badge&logo=keras&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0b0b0b?style=for-the-badge&logo=scikit-learn&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Flask-0b0b0b?style=for-the-badge&logo=flask&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=568e4e"/>
+</p>
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>03 · AI + AR Physiotherapy Rehabilitation</b></summary>
+
+<br>
+
+Mobile rehabilitation platform combining <b>real-time movement analysis, AR feedback, and adaptive exercise progression</b> for guided physiotherapy.
 
 <ul>
-<li>Evaluated <b>10,000+ synthetic patient scenarios</b> across 15+ clinical and ethical constraints.</li>
-<li>Achieved <b>92% accuracy</b>, <b>0.91 F1-score</b> and <b>93% recall</b> on the evaluation set.</li>
-<li>Designed the system around explainable constraint-aware decision support rather than simple classification.</li>
+<li>Analysed movement across <b>20+ rehabilitation exercises</b> using OpenCV pose estimation.</li>
+<li>Used Unity AR overlays for real-time feedback and an adaptive recommendation engine driven by performance history.</li>
 </ul>
 
 <p>
-<b>Stack:</b> TensorFlow · Keras · Scikit-learn · Flask · Python
+<img src="https://img.shields.io/badge/Unity-0b0b0b?style=for-the-badge&logo=unity&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/ARCore-0b0b0b?style=for-the-badge&logo=google&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/OpenCV-0b0b0b?style=for-the-badge&logo=opencv&logoColor=568e4e"/>
+<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=568e4e"/>
 </p>
 
-<h3>03 · AI + AR Physiotherapy Rehabilitation</h3>
+</details>
 
-<p>
-A mobile rehabilitation platform designed to make guided physiotherapy more accessible
-through real-time movement analysis, AR feedback and adaptive exercise progression.
-</p>
-
-<ul>
-<li>Used OpenCV pose estimation across <b>20+ rehabilitation exercises</b>.</li>
-<li>Integrated Unity AR overlays for real-time visual feedback.</li>
-<li>Built adaptive exercise recommendations based on patient performance history.</li>
-<li>Added progress tracking, milestones and adaptive goals to encourage rehabilitation adherence.</li>
-</ul>
-
-<p>
-<b>Stack:</b> Unity · ARCore · OpenCV · Python
-</p>
 
 <h2>Experience</h2>
 
