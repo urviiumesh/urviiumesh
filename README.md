@@ -91,8 +91,6 @@ actually usable.
 
 <h2>Selected Work</h2>
 
-<h2>Selected Work</h2>
-
 <details open>
 <summary><b>01 · Agentic Surveillance Intelligence Platform</b></summary>
 
