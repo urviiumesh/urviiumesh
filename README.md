@@ -70,7 +70,7 @@ Currently pursuing a <b>B.E. in Information Science and Engineering</b> at
 
 <h2>Selected Work</h2>
 
-<details open>
+<details close>
 <summary><b>01 · Agentic Surveillance Intelligence Platform</b></summary>
 
 <br>
