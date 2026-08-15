@@ -37,27 +37,6 @@ Currently pursuing a <b>B.E. in Information Science and Engineering</b> at
 
 <br>
 
-<h2>About Me</h2>
-
-<p>
-I am an AI engineer focused on <b>building systems, not just models</b>.
-My work spans real-time computer vision, multimodal AI, agentic workflows, healthcare AI,
-AR, and applied research.
-</p>
-
-<p>
-What interests me most is the engineering between the model and the real world:
-<b>latency, orchestration, reliability, inference pipelines, APIs, edge processing,
-evaluation, and human interaction</b>.
-</p>
-
-<p>
-I like problems where the first prototype is only the beginning. Whether it is analysing
-multiple video streams, turning a natural-language request into a sequence of AI tools,
-or building an adaptive rehabilitation system, I care about making the final system
-actually usable.
-</p>
-
 <h2>Recognition</h2>
 
 <table>
