@@ -101,7 +101,7 @@ Real-time surveillance intelligence combining <b>computer vision, facial recogni
 
 <br>
 
-<details open>
+<details close>
 <summary><b>02 · Ethical Clinical Decision Support System</b></summary>
 
 <br>
@@ -124,7 +124,7 @@ AI-driven clinical decision support that evaluates treatment recommendations aga
 
 <br>
 
-<details open>
+<details close>
 <summary><b>03 · AI + AR Physiotherapy Rehabilitation</b></summary>
 
 <br>
