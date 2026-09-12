@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1 style="color:#568P4E;">Urvi Umesh</h1>
+<h1 style="color:#568F4E;">Urvi Umesh</h1>
 <img src="assets/urvi-core.gif" width="260" align="right" alt="Urvi animated visual"/>
 
 <h3>AI Engineer who turns ambitious ideas into real-time systems.</h3>
